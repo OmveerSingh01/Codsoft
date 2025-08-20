@@ -1,2 +1,1 @@
-# Codsoft
-This contain three task/projects of the java internship.
+This contain three basic tasks in java 
