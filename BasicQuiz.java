@@ -77,6 +77,7 @@ import java.util.*;
         else{
      System.out.println("Nice,try !!!But Learn more " );
         }
-        System.out.println("All the Best from CODSOFT");
+        System.out.println("All the Best ");
     }
+
 }
